@@ -8,6 +8,6 @@ def batch_badge_creator(attendees)
   return badges
 end
 
-def assign_rooms(attendees)
+def assign_rooms(each_with_index)
   return room_assignments
 end
