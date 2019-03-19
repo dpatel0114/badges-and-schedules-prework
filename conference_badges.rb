@@ -7,3 +7,7 @@ end
 def batch_badge_creator(array)
   return "array of badge messages."
 end
+
+def batch_badge_creator(array)
+  return "array of badge messages."
+end
